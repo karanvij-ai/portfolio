@@ -1,4 +1,7 @@
 **Innovating Enterprise Solutions** | **Tech Leadership** | **Agile Product Delivery**
+# Karan Vij — Senior Technical Architect | Engineering Manager
+
+**Innovating Enterprise Solutions** | **Tech Leadership** | **Agile Product Delivery**
 
 ---
 
@@ -27,12 +30,48 @@ With over 19 years of experience, I’m a proactive web application developer pa
 
 ## Work Experience
 
-| Title                               | Company / Location             | Duration              | Highlights                                                                                                             |
-|--------------------------------------|-------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Technical Consultant**             | Datasys Consulting, Noida      | Nov 2021 – Present    | - Senior technical leader and core team member at FreightSmart.AI (Trucking QMS), designing secure, high-performance architectures, ensuring robust solutions for trucking management, compliance, and driver applications.<br>- Responsible for security and performance considerations across all projects.<br>- Led design and technical strategy for three clients: Freightsmart.ai (logistics-tech startup), Pathik.ai (campaign management platform), and RSS (South Africa, queue management systems).<br>- For Pathik.ai (last 3 months): Involved in all new design discussions, contributed to understanding and improving the existing system (React frontend, Python microservices with Flask backend), and led the LLM-based solution for AI-driven campaign optimization (recommendations for bid, budget, audience, etc.).<br>- Provided technical guidance, managed teams, and worked hands-on as needed to ensure project delivery and quality. |
-| **Founding Member & Technical Lead** | Treebox (Nearshack), Bangalore | Jan 2019 – Oct 2023   | - Senior technical architect and team manager, overseeing system design, architecture, solutioning, and security for the Nearshack platform.<br>- Guided technology selection, mentored development and QA teams, and ensured robust, scalable, and high-performance product delivery.<br>- Balanced hands-on development with leadership, building cross-functional collaboration, and driving high-quality outcomes. |
-| **Associate Project Manager**        | Amber Road (E2Open), Bangalore | Jun 2009 – Jan 2019   | - Played a pivotal technical and managerial role in Trade Automation for Import/Export domain and RPS (Restricted Party Screening) solutions.<br>- Designed and developed Java/J2EE-based systems (Spring Boot, microservices, Oracle), with responsibility for release management, CI/CD deployments, and performance optimization.<br>- Led project alignment, risk mitigation, technical improvements, and ensured security best practices in architecture and deployment. |
-| **Member Technical Staff**           | CDAC R&D, Bangalore            | Mar 2006 – Jan 2009   | - Developed integrated e-governance frameworks for the Department of IT and worked on solutions like IDBC for Health department, Enterprise Resource Information System for HRA, solutions for the Power sector, and other agencies.<br>- Led module design, security, and implementation, delivered integrated service platforms for digital transformation, and contributed to mission-critical government applications. |
+### Technical Consultant  
+**Datasys Consulting, Noida**  
+_Nov 2021 – Present_
+
+**Highlights / Roles:**
+- Senior technical leader and core team member at FreightSmart.AI (Trucking QMS), designing secure, high-performance architectures for trucking management, compliance, and driver applications.
+- Responsible for security and performance considerations across all projects and architectural decisions.
+- Led design and technical strategy for three clients: Freightsmart.ai (logistics-tech startup), Pathik.ai (campaign management platform), and RSS (South Africa, queue management systems).
+- For **Pathik.ai** (last 3 months): Participated in all new design discussions, quickly ramped up on the existing system (React frontend, Python microservices with Flask backend). Initiated and led the LLM-based AI optimization solution for campaign management, providing automated recommendations (bid, budget, audience, etc.) across platforms.
+- Provided technical guidance, managed teams, and worked hands-on as needed to ensure project delivery and quality.
+
+---
+
+### Founding Member & Technical Lead  
+**Treebox (Nearshack), Bangalore**  
+_Jan 2019 – Oct 2023_
+
+**Highlights / Roles:**
+- Senior technical architect and team manager, overseeing system design, architecture, solutioning, and security for the Nearshack platform.
+- Guided technology selection, mentored development and QA teams, and ensured robust, scalable, and high-performance product delivery.
+- Balanced hands-on development with leadership, building cross-functional collaboration, and driving high-quality outcomes.
+
+---
+
+### Associate Project Manager  
+**Amber Road (E2Open), Bangalore**  
+_Jun 2009 – Jan 2019_
+
+**Highlights / Roles:**
+- Played a pivotal technical and managerial role in Trade Automation for Import/Export domain and RPS (Restricted Party Screening) solutions.
+- Designed and developed Java/J2EE-based systems (Spring Boot, microservices, Oracle), with responsibility for release management, CI/CD deployments, and performance optimization.
+- Led project alignment, risk mitigation, technical improvements, and ensured security best practices in architecture and deployment.
+
+---
+
+### Member Technical Staff  
+**CDAC R&D, Bangalore**  
+_Mar 2006 – Jan 2009_
+
+**Highlights / Roles:**
+- Developed integrated e-governance frameworks for the Department of IT and worked on solutions like IDBC for Health department, Enterprise Resource Information System for HRA, solutions for the Power sector, and other agencies.
+- Led module design, security, and implementation, delivered integrated service platforms for digital transformation, and contributed to mission-critical government applications.
 
 ---
 
@@ -71,7 +110,7 @@ With over 19 years of experience, I’m a proactive web application developer pa
 |---------------|---------------------------------------------|
 | **GitHub**    | [karanvij-ai](https://github.com/karanvij-ai)  |
 | **LinkedIn**  | [linkedin.com/in/karanvij](https://linkedin.com/in/karanvij) _(update if needed)_ |
-| **Email**     | [mailto.karanvij@yahoo.com](mailto:mailto.karanvij@yahoo.com) |
+| **Email**     | [karanvij@yahoo.com](mailto:karanvij@yahoo.com) |
 
 ---
 
