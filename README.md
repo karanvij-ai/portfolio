@@ -1,7 +1,4 @@
 **Innovating Enterprise Solutions** | **Tech Leadership** | **Agile Product Delivery**
-# Karan Vij — Senior Technical Architect | Engineering Manager
-
-**Innovating Enterprise Solutions** | **Tech Leadership** | **Agile Product Delivery**
 
 ---
 
