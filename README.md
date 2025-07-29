@@ -1,6 +1,4 @@
-# Karan Vij — Engineering Leader & Solution Architect
-
-**Innovating Enterprise Solutions | Tech Leadership | Agile Product Delivery**
+**Innovating Enterprise Solutions** | **Tech Leadership** | **Agile Product Delivery**
 
 ---
 
