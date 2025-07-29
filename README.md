@@ -12,18 +12,18 @@ With over 19 years of experience, I’m a proactive web application developer pa
 
 ## Skills
 
-| Category         | Technologies / Tools                                                                                           |
-|------------------|---------------------------------------------------------------------------------------------------------------|
-| **Languages**    | Java, J2EE, PHP, Dart, JavaScript, AJAX                                                                      |
-| **Frontend**     | React, Redux, Flutter                                                                                         |
-| **Backend**      | Spring, Spring Boot, Struts, Hibernate, Groovy, JMS, ETF                                                     |
-| **Frameworks**   | Microservices, MVC, SOAP, RESTful                                                                             |
-| **Databases**    | Oracle, MySQL, SQL Server, PostgreSQL                                                                        |
-| **DevOps & Cloud**| AWS, Docker, Kubernetes, Jenkins, Bitbucket                                                                  |
-| **Tools**        | Eclipse, IntelliJ, VS Code, Android Studio, SQL Developer, Toad, Maven, ANT, Bugzilla, JIRA, Confluence, Postman |
-| **Platforms**    | Apache Web Server, Weblogic, WebSphere, Tomcat, JBoss                                                        |
-| **OS**           | Windows, Linux                                                                                               |
-| **Methodologies**| Agile (Scrum, Sprint Planning, Execution, Review)                                                            |
+| Category           | Technologies / Tools                                                                                           |
+|--------------------|---------------------------------------------------------------------------------------------------------------|
+| **Languages**      | Java, J2EE, PHP, Dart, Python, JavaScript, AJAX                                                               |
+| **Frontend**       | React, Redux, Flutter                                                                                         |
+| **Backend**        | Spring, Spring Boot, Struts, Hibernate, Groovy, JMS, ETF, Flask                                               |
+| **Frameworks**     | Microservices, MVC, SOAP, RESTful                                                                             |
+| **Databases**      | Oracle, MySQL, SQL Server, PostgreSQL                                                                         |
+| **DevOps & Cloud** | AWS, Docker, Kubernetes, Jenkins, Bitbucket                                                                   |
+| **Tools**          | Eclipse, IntelliJ, VS Code, Android Studio, SQL Developer, Toad, Maven, ANT, Bugzilla, JIRA, Confluence, Postman |
+| **Platforms**      | Apache Web Server, Weblogic, WebSphere, Tomcat, JBoss                                                         |
+| **OS**             | Windows, Linux                                                                                                |
+| **Methodologies**  | Agile (Scrum, Sprint Planning, Execution, Review)                                                             |
 
 ---
 
@@ -31,10 +31,10 @@ With over 19 years of experience, I’m a proactive web application developer pa
 
 | Title                               | Company / Location             | Duration              | Highlights                                                                                                             |
 |--------------------------------------|-------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Technical Consultant**             | Datasys Consulting, Noida      | Nov 2021 – Present    | - Senior technical leader and core team member at FreightSmart.AI (Trucking QMS), providing solutions for trucking management, compliance, and driver applications<br>- Designed and delivered robust architectures for clients including Pathik.ai (campaign management platform), Freightsmart.ai (logistics-tech startup), and RSS (South Africa, queue management systems)<br>- Led solutioning, team management, technical strategy, and hands-on development as required<br>- Focused on aligning technology with business needs, mentoring technical teams, and ensuring project delivery excellence |
-| **Founding Member & Technical Lead** | Treebox (Nearshack), Bangalore | Jan 2019 – Oct 2023   | - Senior technical architect and team manager, overseeing system design, architecture, and solutioning for the Nearshack platform<br>- Guided technology selection, mentored development and QA teams, and ensured robust, scalable product delivery<br>- Balanced hands-on development with leadership, building cross-functional collaboration and driving high-quality outcomes |
-| **Associate Project Manager**        | Amber Road (E2Open), Bangalore | Jun 2009 – Jan 2019   | - Played a pivotal technical and managerial role in Trade Automation for Import/Export domain and RPS (Restricted Party Screening) solutions<br>- Designed and developed Java/J2EE-based systems (Spring Boot, microservices, Oracle) with responsibility for release management and CI/CD deployments<br>- Ensured project alignment, risk mitigation, and continuous technical improvement |
-| **Member Technical Staff**           | CDAC R&D, Bangalore            | Mar 2006 – Jan 2009   | - Developed e-governance solutions for the Department of ID and various government departments including Health (IBDC), Enterprise Resource Information System, and Power sector<br>- Led module design and implementation, delivered integrated service platforms, and contributed to multiple mission-critical applications for public sector transformation |
+| **Technical Consultant**             | Datasys Consulting, Noida      | Nov 2021 – Present    | - Senior technical leader and core team member at FreightSmart.AI (Trucking QMS), designing secure, high-performance architectures, ensuring robust solutions for trucking management, compliance, and driver applications.<br>- Responsible for security and performance considerations across all projects.<br>- Led design and technical strategy for three clients: Freightsmart.ai (logistics-tech startup), Pathik.ai (campaign management platform), and RSS (South Africa, queue management systems).<br>- For Pathik.ai (last 3 months): Involved in all new design discussions, contributed to understanding and improving the existing system (React frontend, Python microservices with Flask backend), and led the LLM-based solution for AI-driven campaign optimization (recommendations for bid, budget, audience, etc.).<br>- Provided technical guidance, managed teams, and worked hands-on as needed to ensure project delivery and quality. |
+| **Founding Member & Technical Lead** | Treebox (Nearshack), Bangalore | Jan 2019 – Oct 2023   | - Senior technical architect and team manager, overseeing system design, architecture, solutioning, and security for the Nearshack platform.<br>- Guided technology selection, mentored development and QA teams, and ensured robust, scalable, and high-performance product delivery.<br>- Balanced hands-on development with leadership, building cross-functional collaboration, and driving high-quality outcomes. |
+| **Associate Project Manager**        | Amber Road (E2Open), Bangalore | Jun 2009 – Jan 2019   | - Played a pivotal technical and managerial role in Trade Automation for Import/Export domain and RPS (Restricted Party Screening) solutions.<br>- Designed and developed Java/J2EE-based systems (Spring Boot, microservices, Oracle), with responsibility for release management, CI/CD deployments, and performance optimization.<br>- Led project alignment, risk mitigation, technical improvements, and ensured security best practices in architecture and deployment. |
+| **Member Technical Staff**           | CDAC R&D, Bangalore            | Mar 2006 – Jan 2009   | - Developed integrated e-governance frameworks for the Department of IT and worked on solutions like IDBC for Health department, Enterprise Resource Information System for HRA, solutions for the Power sector, and other agencies.<br>- Led module design, security, and implementation, delivered integrated service platforms for digital transformation, and contributed to mission-critical government applications. |
 
 ---
 
@@ -42,12 +42,12 @@ With over 19 years of experience, I’m a proactive web application developer pa
 
 | Project / Product               | Description & Role                                                                                                         |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **FreightSmart.ai**             | Core team member and technical lead for a comprehensive trucking platform (TMS, loadboard, compliance, driver app), architecting solutions and guiding the team for client delivery.     |
-| **Pathik.ai**                   | Designed and built a web app for campaign briefing, planning, execution, optimization, and analytics across multiple platforms, delivering an integrated solution for marketing teams.                       |
-| **Nearshack Platform**          | Architected and developed a mobile/web solution connecting users to local vendors, enabling seamless ordering and delivery. |
+| **FreightSmart.ai**             | Core team member and technical lead for a comprehensive trucking platform (TMS, loadboard, compliance, driver app), architecting secure, scalable solutions and guiding teams for client delivery.     |
+| **Pathik.ai**                   | Led the LLM-based AI optimization solution for campaign briefing, planning, execution, and analytics across multiple platforms. Fully involved in designing and implementing AI-driven recommendations (bid, budget, audience, etc.) using React (frontend) and Python microservices with Flask (backend).                       |
+| **Nearshack Platform**          | Architected and developed a mobile/web solution connecting users to local vendors, enabling seamless ordering and delivery, ensuring security and performance at scale. |
 | **Qmatic (RSS)**                | Delivered and customized Qmatic queuing system solutions for banks and government clients in South Africa, including hardware/software integrations and tailored workflows.  |
-| **Trade Automation & RPS**      | Drove design and implementation of import/export automation and restricted party screening solutions (Java/J2EE, Spring Boot, microservices, Oracle).    |
-| **e-Governance Solutions (CDAC)**| Developed integrated e-governance frameworks for the Department of ID, Health (IBDC), Enterprise Resource Information System, Power sector, and other government agencies, enabling seamless digital transformation across domains. |
+| **Trade Automation & RPS**      | Drove design and implementation of import/export automation and restricted party screening solutions (Java/J2EE, Spring Boot, microservices, Oracle), focusing on secure, reliable, and high-performance architecture.    |
+| **e-Governance Solutions (CDAC R&D)** | Developed integrated e-governance frameworks for the Department of IT and worked on various solutions like IDBC for Health department, Enterprise Resource Information System for HRA, solutions for the Power sector, and other government agencies, enabling seamless digital transformation across domains. |
 
 ---
 
